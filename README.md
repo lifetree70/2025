@@ -13,6 +13,7 @@
 | 3  | 25/01/24 |  진법 변환   | 2745  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 수학, 구현, 문자열 |  [보기](./Bronze/진법%20변환.cpp)   |  |
 | 4  | 25/02/20 | 팰린드롬 척화비 | 20944 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |  문자열, 애드혹   | [보기](./Bronze/팰린드롬%20척화비.cpp) |  |
 | 5  | 25/02/20 |   문문문    | 17210 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 구현    |    [보기](./Bronze/문문문.cpp)     |  |
+| 6  | 25/02/20 |   에어팟    | 25495 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |  구현, 시뮬레이션  |    [보기](./Bronze/에어팟.cpp)     |  |
 
 </details>
 
