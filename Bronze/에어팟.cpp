@@ -33,6 +33,5 @@ int main() {
     cout << b;
 
     delete[] arr;
-
     return 0;
 }
