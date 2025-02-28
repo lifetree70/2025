@@ -16,6 +16,7 @@
 | 6  | 25/02/20 |      에어팟      | 25495 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |  구현, 시뮬레이션   |          [보기](./Bronze/에어팟.cpp)          |  |
 | 7  | 25/02/26 |      A-B      | 1001  | <img src="https://static.solved.ac/tier_small/1.svg" width="20px"/> | 수학, 구현, 사칙연산 |          [보기](./Bronze/A-B.cpp)          |  |
 | 8  | 25/02/27 | 그래서 님 푼 문제 수가 | 29720 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |      수학      | [보기](./Bronze/그래서%20님%20푼%20문제%20수가.cpp) |  |
+| 9  | 25/02/28 | 등차수열에서 항 번호 찾기 | 14913 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 사칙연산   | [보기](./Bronze/등차수열에서%20항%20번호%20찾기.cpp)  |  |
 
 </details>
 
