@@ -20,7 +20,7 @@
 | 10 | 25/03/01 |      비밀편지      | 2596  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열     |         [보기](./Bronze/비밀편지.cpp)          |  |
 | 11 | 25/03/04 |       루트       | 4619  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> | 수학, 브루트포스 알고리즘 |          [보기](./Bronze/루트.cpp)           |  |
 | 12 | 25/03/06 |      점수계산      | 2506  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |  수학, 구현, 사칙연산  |         [보기](./Bronze/점수계산.cpp)          |  |
-
+| 13 | 25/03/07 |     팰린드롬수      | 1259  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열     |         [보기](./Bronze/팰린드롬수.cpp)         |  |
 
 </details>
 
