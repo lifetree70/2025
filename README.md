@@ -24,6 +24,8 @@
 | 14 | 25/03/08 |         오븐 시계          | 2525  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |           [보기](./Bronze/오븐%20시계.cpp)            |  |
 | 15 | 25/03/16 | Yangjojang of The Year | 11557 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |     구현, 정렬     | [보기](./Bronze/Yangjojang%20of%20The%20Year.cpp) |  |
 | 16 | 25/03/17 |          콘테스트          | 5576  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 정렬     |             [보기](./Bronze/콘테스트.cpp)             |  |
+| 17 | 25/03/18 |         너의 핸들은         | 15819 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    문자열, 정렬     |           [보기](./Bronze/너의%20핸들은.cpp)           |  |
+
 
 </details>
 
@@ -39,9 +41,9 @@
 
 ### 🥇 Gold
 
-| 번호  |    날짜    | 문제 이름  | 문제 번호 |                                 난이도                                  |            분류             |            코드             |  
-|:---:|:--------:|:------:|:-----:|:--------------------------------------------------------------------:|:-------------------------:|:-------------------------:|
-| 1  | 25/02/25 | 암호 만들기 | 1759  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 수학, 브루트포스 알고리즘, 조합론, 백트래킹 | [보기](./Gold/암호%20만들기.cpp) |  |
+| 번호  |    날짜    | 문제 이름  | 문제 번호 |                                 난이도                                  |          분류           |            코드             |  
+|:---:|:--------:|:------:|:-----:|:--------------------------------------------------------------------:|:---------------------:|:-------------------------:|
+| 1  | 25/02/25 | 암호 만들기 | 1759  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 브루트포스 알고리즘, 조합론, 백트래킹 | [보기](./Gold/암호%20만들기.cpp) |  |
 
 
 [Bronze5]: https://static.solved.ac/tier_small/1.svg
