@@ -25,6 +25,7 @@
 | 15 | 25/03/16 | Yangjojang of The Year | 11557 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |     구현, 정렬     | [보기](./Bronze/Yangjojang%20of%20The%20Year.cpp) |  |
 | 16 | 25/03/17 |          콘테스트          | 5576  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 정렬     |             [보기](./Bronze/콘테스트.cpp)             |  |
 | 17 | 25/03/18 |         너의 핸들은         | 15819 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    문자열, 정렬     |           [보기](./Bronze/너의%20핸들은.cpp)           |  |
+| 18 | 25/03/20 |           평균           | 1546  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    수학, 사칙연산    |              [보기](./Bronze/평균.cpp)              |  |
 
 
 </details>
