@@ -27,7 +27,8 @@
 | 17 | 25/03/18 |         너의 핸들은         | 15819 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    문자열, 정렬     |           [보기](./Bronze/너의%20핸들은.cpp)           |  |
 | 18 | 25/03/20 |           평균           | 1546  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    수학, 사칙연산    |              [보기](./Bronze/평균.cpp)              |  |
 | 19 | 25/03/23 |      달팽이는 올라가고 싶다      | 2869  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |       수학       |       [보기](./Bronze/달팽이는%20올라가고%20싶다.cpp)       |  |
-| 20 | 25/03/24 |          대표값2          | 2587  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   수학, 구현, 정렬   |       [보기](./Bronze/대표값2.cpp)
+| 20 | 25/03/24 |          대표값2          | 2587  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   수학, 구현, 정렬   |             [보기](./Bronze/대표값2.cpp)             |  |
+| 21 | 25/03/25 |         수 정렬하기         | 2750  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 정렬     |           [보기](./Bronze/수%20정렬하기.cpp)           |  |
 
 </details>
 
