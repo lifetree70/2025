@@ -42,6 +42,8 @@
 | 4  | 25/03/12 |   돌 게임    | 9655  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |      수학, 다이나믹 프로그래밍, 게임 이론      |    [보기](./Silver/돌%20게임.cpp)     |  |
 | 5  | 25/03/13 |  접미사 배열   | 11656 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |             문자열, 정렬             |   [보기](./Silver/접미사%20배열.cpp)    |  |
 | 6  | 25/03/19 |    국영수    | 10825 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |               정렬                |      [보기](./Silver/국영수.cpp)      |  |
+| 7  | 25/03/26 | 수 정렬하기 2  | 2751  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |               정렬                | [보기](./Silver/수%20정렬하기%202.cpp)  |  |
+
 
 ### 🥇 Gold
 
