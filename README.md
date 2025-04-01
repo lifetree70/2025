@@ -45,6 +45,7 @@
 | 7  | 25/03/26 | 수 정렬하기 2  | 2751  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |          정렬           | [보기](./Silver/수%20정렬하기%202.cpp)  |  |
 | 8  | 25/03/27 | 좌표 정렬하기 2 | 11651 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |          정렬           | [보기](./Silver/좌표%20정렬하기%202.cpp) |  |
 | 9  | 25/03/28 |   단어 정렬   | 1181  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |        문자열, 정렬        |    [보기](./Silver/단어%20정렬.cpp)    |  |
+| 10  | 25/04/01 |  나이순 정렬   | 10814 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |          정렬           |   [보기](./Silver/나이순%20정렬.cpp)    |  |
 
 ### 🥇 Gold
 
