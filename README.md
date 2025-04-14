@@ -34,6 +34,7 @@
 | 24 | 25/04/07 |         이항 계수 1         | 11050 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |     수학, 구현     |         [보기](./Bronze/이항%20계수%201.cpp)          |  |
 | 25 | 25/04/08 |          분산처리           | 1009  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     수학, 구현     |             [보기](./Bronze/분산처리.cpp)             |  |
 | 26 | 25/04/09 |        직사각형에서 탈출        | 1085  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 기하학     |         [보기](./Bronze/직사각형에서%20탈출.cpp)          |  |
+| 27 | 25/04/14 |        별 찍기 - 4       | 2441  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       구현       |         [보기](./Bronze/별찍기%20-%204.cpp)          |  |
 
 </details>
 
