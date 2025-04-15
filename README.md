@@ -59,6 +59,7 @@
 |:--:|:--------:|:------:|:-----:|:--------------------------------------------------------------------:|:---------------------:|:-------------------------:|
 | 1  | 25/02/25 | 암호 만들기 | 1759  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 브루트포스 알고리즘, 조합론, 백트래킹 | [보기](./Gold/암호%20만들기.cpp) |  |
 | 2  | 25/03/21 | 강의실 배정 | 11000 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 정렬, 우선순위 큐, 그리디 알고리즘  | [보기](./Gold/강의실%20배정.cpp) |  |
+| 3  | 25/04/15  | 치킨 배달  | 15686 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> |   브루트포스 알고리즘, 백트래킹    | [보기](./Gold/치킨%20배달.cpp)  |  |
 
 
 [Bronze5]: https://static.solved.ac/tier_small/1.svg
