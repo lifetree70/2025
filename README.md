@@ -36,7 +36,8 @@
 | 26 | 25/04/09 |       직사각형에서 탈출        | 1085  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 기하학     |         [보기](./Bronze/직사각형에서%20탈출.cpp)          |  |
 | 27 | 25/04/14 |        별 찍기 - 4        | 2441  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       구현       |         [보기](./Bronze/별찍기%20-%204.cpp)          |  |
 | 28 | 25/04/16 |        별 찍기 - 5        | 2442  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       구현       |         [보기](./Bronze/별찍기%20-%205.cpp)          |  |
-| 29 | 25/04/18 |           곱셈           |   2588    | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |              [보기](./Bronze/곱셈.cpp)              |  |
+| 29 | 25/04/18 |           곱셈           | 2588  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |              [보기](./Bronze/곱셈.cpp)              |  |
+| 30 | 25/04/22 |         공 바꾸기          |   10813    | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   구현, 시뮬레이션    |           [보기](./Bronze/공%20바꾸기.cpp)            |  |
 
 </details>
 
