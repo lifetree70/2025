@@ -39,7 +39,8 @@
 | 29 | 25/04/18 |           곱셈           | 2588  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |              [보기](./Bronze/곱셈.cpp)              |  |
 | 30 | 25/04/22 |         공 바꾸기          | 10813 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   구현, 시뮬레이션    |           [보기](./Bronze/공%20바꾸기.cpp)            |  |
 | 31 | 25/04/25 |          최댓값           | 2562  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       구현       |             [보기](./Bronze/최댓값.cpp)              |  |
-| 32 | 25/05/02 |          최소, 최대          | 10818  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |     수학, 구현     |           [보기](./Bronze/최소,%20최대.cpp)           |  |
+| 32 | 25/05/02 |         최소, 최대         | 10818 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |     수학, 구현     |           [보기](./Bronze/최소,%20최대.cpp)           |  |
+| 33 | 25/05/06 |          공 넣기          |   10810    | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   구현, 시뮬레이션    |            [보기](./Bronze/공%20넣기.cpp)            |  |
 
 </details>
 
