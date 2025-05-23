@@ -42,6 +42,7 @@
 | 32 | 25/05/02 |         최소, 최대         | 10818 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |     수학, 구현     |           [보기](./Bronze/최소,%20최대.cpp)           |  |
 | 33 | 25/05/06 |          공 넣기          | 10810 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   구현, 시뮬레이션    |            [보기](./Bronze/공%20넣기.cpp)            |  |
 | 34 | 25/05/14 |         단어의 개수         | 1152  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    구현, 문자열     |           [보기](./Bronze/단어의%20개수.cpp)           |  |
+| 35 | 25/05/23 |           상수           | 2908  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 수학     |              [보기](./Bronze/상수.cpp)              |  |
 
 </details>
 
