@@ -6,43 +6,44 @@
 <details open>
 <summary></summary>
 
-| 번호 |    날짜    |         문제 이름          | 문제 번호 |                                 난이도                                 |       분류       |                       코드                        |  
-|:--:|:--------:|:----------------------:|:-----:|:-------------------------------------------------------------------:|:--------------:|:-----------------------------------------------:|
-| 1  | 25/01/21 |        사분면 고르기         | 14681 | <img src="https://static.solved.ac/tier_small/1.svg" width="20px"/> |    구현, 기하학     |          [보기](./Bronze/사분면%20고르기.cpp)           |  |
-| 2  | 25/01/22 |         알람 시계          | 2884  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |           [보기](./Bronze/알람%20시계.cpp)            |  |
-| 3  | 25/01/24 |         진법 변환          | 2745  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |  수학, 구현, 문자열   |           [보기](./Bronze/진법%20변환.cpp)            |  |
-| 4  | 25/02/20 |        팰린드롬 척화비        | 20944 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    문자열, 애드혹    |          [보기](./Bronze/팰린드롬%20척화비.cpp)          |  |
-| 5  | 25/02/20 |          문문문           | 17210 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |     수학, 구현     |             [보기](./Bronze/문문문.cpp)              |  |
-| 6  | 25/02/20 |          에어팟           | 25495 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   구현, 시뮬레이션    |             [보기](./Bronze/에어팟.cpp)              |  |
-| 7  | 25/02/26 |          A-B           | 1001  | <img src="https://static.solved.ac/tier_small/1.svg" width="20px"/> |  수학, 구현, 사칙연산  |             [보기](./Bronze/A-B.cpp)              |  |
-| 8  | 25/02/27 |     그래서 님 푼 문제 수가      | 29720 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       수학       |    [보기](./Bronze/그래서%20님%20푼%20문제%20수가.cpp)     |  |
-| 9  | 25/02/28 |     등차수열에서 항 번호 찾기     | 14913 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |     [보기](./Bronze/등차수열에서%20항%20번호%20찾기.cpp)     |  |
-| 10 | 25/03/01 |          비밀편지          | 2596  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열     |             [보기](./Bronze/비밀편지.cpp)             |  |
-| 11 | 25/03/04 |           루트           | 4619  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> | 수학, 브루트포스 알고리즘 |              [보기](./Bronze/루트.cpp)              |  |
-| 12 | 25/03/06 |          점수계산          | 2506  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |  수학, 구현, 사칙연산  |             [보기](./Bronze/점수계산.cpp)             |  |
-| 13 | 25/03/07 |         팰린드롬수          | 1259  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열     |            [보기](./Bronze/팰린드롬수.cpp)             |  |
-| 14 | 25/03/08 |         오븐 시계          | 2525  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |           [보기](./Bronze/오븐%20시계.cpp)            |  |
-| 15 | 25/03/16 | Yangjojang of The Year | 11557 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |     구현, 정렬     | [보기](./Bronze/Yangjojang%20of%20The%20Year.cpp) |  |
-| 16 | 25/03/17 |          콘테스트          | 5576  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 정렬     |             [보기](./Bronze/콘테스트.cpp)             |  |
-| 17 | 25/03/18 |         너의 핸들은         | 15819 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    문자열, 정렬     |           [보기](./Bronze/너의%20핸들은.cpp)           |  |
-| 18 | 25/03/20 |           평균           | 1546  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    수학, 사칙연산    |              [보기](./Bronze/평균.cpp)              |  |
-| 19 | 25/03/23 |      달팽이는 올라가고 싶다      | 2869  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |       수학       |       [보기](./Bronze/달팽이는%20올라가고%20싶다.cpp)       |  |
-| 20 | 25/03/24 |          대표값2          | 2587  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   수학, 구현, 정렬   |             [보기](./Bronze/대표값2.cpp)             |  |
-| 21 | 25/03/25 |         수 정렬하기         | 2750  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 정렬     |           [보기](./Bronze/수%20정렬하기.cpp)           |  |
-| 22 | 25/04/02 |         소인수분해          | 11653 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    수학, 정수론     |            [보기](./Bronze/소인수분해.cpp)             |  |
-| 23 | 25/04/05 |          세 수           | 10817 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |     구현, 정렬     |            [보기](./Bronze/세%20수.cpp)             |  |
-| 24 | 25/04/07 |        이항 계수 1         | 11050 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |     수학, 구현     |         [보기](./Bronze/이항%20계수%201.cpp)          |  |
-| 25 | 25/04/08 |          분산처리          | 1009  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     수학, 구현     |             [보기](./Bronze/분산처리.cpp)             |  |
-| 26 | 25/04/09 |       직사각형에서 탈출        | 1085  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 기하학     |         [보기](./Bronze/직사각형에서%20탈출.cpp)          |  |
-| 27 | 25/04/14 |        별 찍기 - 4        | 2441  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       구현       |         [보기](./Bronze/별찍기%20-%204.cpp)          |  |
-| 28 | 25/04/16 |        별 찍기 - 5        | 2442  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       구현       |         [보기](./Bronze/별찍기%20-%205.cpp)          |  |
-| 29 | 25/04/18 |           곱셈           | 2588  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |              [보기](./Bronze/곱셈.cpp)              |  |
-| 30 | 25/04/22 |         공 바꾸기          | 10813 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   구현, 시뮬레이션    |           [보기](./Bronze/공%20바꾸기.cpp)            |  |
-| 31 | 25/04/25 |          최댓값           | 2562  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       구현       |             [보기](./Bronze/최댓값.cpp)              |  |
-| 32 | 25/05/02 |         최소, 최대         | 10818 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |     수학, 구현     |           [보기](./Bronze/최소,%20최대.cpp)           |  |
-| 33 | 25/05/06 |          공 넣기          | 10810 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   구현, 시뮬레이션    |            [보기](./Bronze/공%20넣기.cpp)            |  |
-| 34 | 25/05/14 |         단어의 개수         | 1152  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    구현, 문자열     |           [보기](./Bronze/단어의%20개수.cpp)           |  |
-| 35 | 25/05/23 |           상수           | 2908  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 수학     |              [보기](./Bronze/상수.cpp)              |  |
+| 번호 |    날짜    |             문제 이름             | 문제 번호 |                                 난이도                                 |       분류       |                       코드                        |  
+|:--:|:--------:|:-----------------------------:|:-----:|:-------------------------------------------------------------------:|:--------------:|:-----------------------------------------------:|
+| 1  | 25/01/21 |            사분면 고르기            | 14681 | <img src="https://static.solved.ac/tier_small/1.svg" width="20px"/> |    구현, 기하학     |          [보기](./Bronze/사분면%20고르기.cpp)           |  |
+| 2  | 25/01/22 |             알람 시계             | 2884  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |           [보기](./Bronze/알람%20시계.cpp)            |  |
+| 3  | 25/01/24 |             진법 변환             | 2745  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |  수학, 구현, 문자열   |           [보기](./Bronze/진법%20변환.cpp)            |  |
+| 4  | 25/02/20 |           팰린드롬 척화비            | 20944 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    문자열, 애드혹    |          [보기](./Bronze/팰린드롬%20척화비.cpp)          |  |
+| 5  | 25/02/20 |              문문문              | 17210 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |     수학, 구현     |             [보기](./Bronze/문문문.cpp)              |  |
+| 6  | 25/02/20 |              에어팟              | 25495 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   구현, 시뮬레이션    |             [보기](./Bronze/에어팟.cpp)              |  |
+| 7  | 25/02/26 |              A-B              | 1001  | <img src="https://static.solved.ac/tier_small/1.svg" width="20px"/> |  수학, 구현, 사칙연산  |             [보기](./Bronze/A-B.cpp)              |  |
+| 8  | 25/02/27 |         그래서 님 푼 문제 수가         | 29720 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       수학       |    [보기](./Bronze/그래서%20님%20푼%20문제%20수가.cpp)     |  |
+| 9  | 25/02/28 |        등차수열에서 항 번호 찾기         | 14913 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |     [보기](./Bronze/등차수열에서%20항%20번호%20찾기.cpp)     |  |
+| 10 | 25/03/01 |             비밀편지              | 2596  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열     |             [보기](./Bronze/비밀편지.cpp)             |  |
+| 11 | 25/03/04 |              루트               | 4619  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> | 수학, 브루트포스 알고리즘 |              [보기](./Bronze/루트.cpp)              |  |
+| 12 | 25/03/06 |             점수계산              | 2506  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |  수학, 구현, 사칙연산  |             [보기](./Bronze/점수계산.cpp)             |  |
+| 13 | 25/03/07 |             팰린드롬수             | 1259  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열     |            [보기](./Bronze/팰린드롬수.cpp)             |  |
+| 14 | 25/03/08 |             오븐 시계             | 2525  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |           [보기](./Bronze/오븐%20시계.cpp)            |  |
+| 15 | 25/03/16 |    Yangjojang of The Year     | 11557 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |     구현, 정렬     | [보기](./Bronze/Yangjojang%20of%20The%20Year.cpp) |  |
+| 16 | 25/03/17 |             콘테스트              | 5576  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 정렬     |             [보기](./Bronze/콘테스트.cpp)             |  |
+| 17 | 25/03/18 |            너의 핸들은             | 15819 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    문자열, 정렬     |           [보기](./Bronze/너의%20핸들은.cpp)           |  |
+| 18 | 25/03/20 |              평균               | 1546  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    수학, 사칙연산    |              [보기](./Bronze/평균.cpp)              |  |
+| 19 | 25/03/23 |         달팽이는 올라가고 싶다          | 2869  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |       수학       |       [보기](./Bronze/달팽이는%20올라가고%20싶다.cpp)       |  |
+| 20 | 25/03/24 |             대표값2              | 2587  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   수학, 구현, 정렬   |             [보기](./Bronze/대표값2.cpp)             |  |
+| 21 | 25/03/25 |            수 정렬하기             | 2750  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 정렬     |           [보기](./Bronze/수%20정렬하기.cpp)           |  |
+| 22 | 25/04/02 |             소인수분해             | 11653 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    수학, 정수론     |            [보기](./Bronze/소인수분해.cpp)             |  |
+| 23 | 25/04/05 |              세 수              | 10817 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |     구현, 정렬     |            [보기](./Bronze/세%20수.cpp)             |  |
+| 24 | 25/04/07 |            이항 계수 1            | 11050 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |     수학, 구현     |         [보기](./Bronze/이항%20계수%201.cpp)          |  |
+| 25 | 25/04/08 |             분산처리              | 1009  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     수학, 구현     |             [보기](./Bronze/분산처리.cpp)             |  |
+| 26 | 25/04/09 |           직사각형에서 탈출           | 1085  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 기하학     |         [보기](./Bronze/직사각형에서%20탈출.cpp)          |  |
+| 27 | 25/04/14 |           별 찍기 - 4            | 2441  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       구현       |         [보기](./Bronze/별찍기%20-%204.cpp)          |  |
+| 28 | 25/04/16 |           별 찍기 - 5            | 2442  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       구현       |         [보기](./Bronze/별찍기%20-%205.cpp)          |  |
+| 29 | 25/04/18 |              곱셈               | 2588  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |              [보기](./Bronze/곱셈.cpp)              |  |
+| 30 | 25/04/22 |             공 바꾸기             | 10813 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   구현, 시뮬레이션    |           [보기](./Bronze/공%20바꾸기.cpp)            |  |
+| 31 | 25/04/25 |              최댓값              | 2562  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |       구현       |             [보기](./Bronze/최댓값.cpp)              |  |
+| 32 | 25/05/02 |            최소, 최대             | 10818 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |     수학, 구현     |           [보기](./Bronze/최소,%20최대.cpp)           |  |
+| 33 | 25/05/06 |             공 넣기              | 10810 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   구현, 시뮬레이션    |            [보기](./Bronze/공%20넣기.cpp)            |  |
+| 34 | 25/05/14 |            단어의 개수             | 1152  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    구현, 문자열     |           [보기](./Bronze/단어의%20개수.cpp)           |  |
+| 35 | 25/05/23 |              상수               | 2908  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 수학     |              [보기](./Bronze/상수.cpp)              |  |
+| 36 | 25/05/24 |          팰린드롬인지 확인하기          | 10988  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    구현, 문자열     |        [보기](./Bronze/팰린드롬인지%20확인하기.cpp)         |  |
 
 </details>
 
