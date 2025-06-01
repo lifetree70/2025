@@ -65,6 +65,7 @@
 | 9  | 25/03/28 |   단어 정렬   | 1181  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |        문자열, 정렬        |    [보기](./Silver/단어%20정렬.cpp)    |  |
 | 10 | 25/04/01 |  나이순 정렬   | 10814 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |          정렬           |   [보기](./Silver/나이순%20정렬.cpp)    |  |
 | 11 | 25/05/28 | 그룹 단어 체커  | 1316 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |        구현, 문자열        | [보기](./Silver/그룹%20단어%20체커.cpp)  |  |
+| 12 | 25/06/01 | 크로아티아 알파벳  | 2941 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |        구현, 문자열        |  [보기](./Silver/크로아티아%20알파벳.cpp)  |  |
 
 ### 🥇 Gold
 
