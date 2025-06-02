@@ -52,20 +52,21 @@
 
 ### 🥈 Silver
 
-| 번호 |    날짜    |   문제 이름   | 문제 번호 |                                 난이도                                 |          분류           |                코드                |  
-|:--:|:--------:|:---------:|:-----:|:-------------------------------------------------------------------:|:---------------------:|:--------------------------------:|
-| 1  | 25/02/24 | 트리의 부모 찾기 | 11725 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> |  그래프 이론, 그래프 탐색, 트리   | [보기](./Silver/트리의%20부모%20찾기.cpp) |  |
-| 2  | 25/03/02 |  나뭇잎 학회   | 26005 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |    수학, 애드 혹, 사칙연산     |   [보기](./Silver/나뭇잎%20학회.cpp)    |  |
-| 3  | 25/03/09 |  풍선 터뜨리기  | 2346  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |        자료구조, 덱        |   [보기](./Silver/풍선%20터뜨리기.cpp)   |  |
-| 4  | 25/03/12 |   돌 게임    | 9655  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 수학, 다이나믹 프로그래밍, 게임 이론 |    [보기](./Silver/돌%20게임.cpp)     |  |
-| 5  | 25/03/13 |  접미사 배열   | 11656 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |        문자열, 정렬        |   [보기](./Silver/접미사%20배열.cpp)    |  |
-| 6  | 25/03/19 |    국영수    | 10825 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |          정렬           |      [보기](./Silver/국영수.cpp)      |  |
-| 7  | 25/03/26 | 수 정렬하기 2  | 2751  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |          정렬           | [보기](./Silver/수%20정렬하기%202.cpp)  |  |
-| 8  | 25/03/27 | 좌표 정렬하기 2 | 11651 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |          정렬           | [보기](./Silver/좌표%20정렬하기%202.cpp) |  |
-| 9  | 25/03/28 |   단어 정렬   | 1181  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |        문자열, 정렬        |    [보기](./Silver/단어%20정렬.cpp)    |  |
-| 10 | 25/04/01 |  나이순 정렬   | 10814 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |          정렬           |   [보기](./Silver/나이순%20정렬.cpp)    |  |
-| 11 | 25/05/28 | 그룹 단어 체커  | 1316 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |        구현, 문자열        | [보기](./Silver/그룹%20단어%20체커.cpp)  |  |
-| 12 | 25/06/01 | 크로아티아 알파벳  | 2941 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |        구현, 문자열        |  [보기](./Silver/크로아티아%20알파벳.cpp)  |  |
+| 번호 |    날짜    |   문제 이름   | 문제 번호 |                                 난이도                                 |           분류            |                코드                |  
+|:--:|:--------:|:---------:|:-----:|:-------------------------------------------------------------------:|:-----------------------:|:--------------------------------:|
+| 1  | 25/02/24 | 트리의 부모 찾기 | 11725 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> |   그래프 이론, 그래프 탐색, 트리    | [보기](./Silver/트리의%20부모%20찾기.cpp) |  |
+| 2  | 25/03/02 |  나뭇잎 학회   | 26005 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |     수학, 애드 혹, 사칙연산      |   [보기](./Silver/나뭇잎%20학회.cpp)    |  |
+| 3  | 25/03/09 |  풍선 터뜨리기  | 2346  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |         자료구조, 덱         |   [보기](./Silver/풍선%20터뜨리기.cpp)   |  |
+| 4  | 25/03/12 |   돌 게임    | 9655  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |  수학, 다이나믹 프로그래밍, 게임 이론  |    [보기](./Silver/돌%20게임.cpp)     |  |
+| 5  | 25/03/13 |  접미사 배열   | 11656 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |         문자열, 정렬         |   [보기](./Silver/접미사%20배열.cpp)    |  |
+| 6  | 25/03/19 |    국영수    | 10825 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |           정렬            |      [보기](./Silver/국영수.cpp)      |  |
+| 7  | 25/03/26 | 수 정렬하기 2  | 2751  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |           정렬            | [보기](./Silver/수%20정렬하기%202.cpp)  |  |
+| 8  | 25/03/27 | 좌표 정렬하기 2 | 11651 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |           정렬            | [보기](./Silver/좌표%20정렬하기%202.cpp) |  |
+| 9  | 25/03/28 |   단어 정렬   | 1181  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |         문자열, 정렬         |    [보기](./Silver/단어%20정렬.cpp)    |  |
+| 10 | 25/04/01 |  나이순 정렬   | 10814 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |           정렬            |   [보기](./Silver/나이순%20정렬.cpp)    |  |
+| 11 | 25/05/28 | 그룹 단어 체커  | 1316 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |         구현, 문자열         | [보기](./Silver/그룹%20단어%20체커.cpp)  |  |
+| 12 | 25/06/01 | 크로아티아 알파벳  | 2941 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |         구현, 문자열         |  [보기](./Silver/크로아티아%20알파벳.cpp)  |  |
+| 13 | 25/06/02 | 수 찾기   | 1920 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 정렬, 이분 탐색, 집합과 맵 |    [보기](./Silver/수%20찾기.cpp)     |  |
 
 ### 🥇 Gold
 
