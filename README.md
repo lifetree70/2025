@@ -45,9 +45,9 @@
 | 35 | 25/05/23 |           상수           | 2908  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 수학     |              [보기](./Bronze/상수.cpp)              |  |
 | 36 | 25/05/24 |      팰린드롬인지 확인하기       | 10988 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    구현, 문자열     |        [보기](./Bronze/팰린드롬인지%20확인하기.cpp)         |  |
 | 37 | 25/05/27 |         단어 공부          | 1157  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열     |           [보기](./Bronze/단어%20공부.cpp)            |  |
-| 38 | 25/05/30 |         커트라인          | 25305  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 정렬     |             [보기](./Bronze/커트라인.cpp)             |  |
-| 39 | 25/06/04 |         나누기          | 1075  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 수학, 브루트포스 알고리즘 |             [보기](./Bronze/나누기.cpp)              |  |
-
+| 38 | 25/05/30 |          커트라인          | 25305  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |     구현, 정렬     |             [보기](./Bronze/커트라인.cpp)             |  |
+| 39 | 25/06/04 |          나누기           | 1075  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> | 수학, 브루트포스 알고리즘 |             [보기](./Bronze/나누기.cpp)              |  |
+| 40 | 25/06/07 |         핸드폰 요금         | 1267  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |    수학, 사칙연산    |           [보기](./Bronze/핸드폰%20요금.cpp)           |  |
 
 </details>
 
